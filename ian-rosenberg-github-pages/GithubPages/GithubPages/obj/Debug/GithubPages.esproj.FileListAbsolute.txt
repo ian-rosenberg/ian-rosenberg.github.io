@@ -1,0 +1,2 @@
+C:\Users\sapph\source\repos\GithubPages\ian-rosenberg-github-pages\GithubPages\GithubPages\obj\Debug\GithubPages.esproj.SuggestedBindingRedirects.cache
+C:\Users\sapph\source\repos\GithubPages\ian-rosenberg-github-pages\GithubPages\GithubPages\obj\Debug\GithubPages.esproj.CoreCompileInputs.cache
