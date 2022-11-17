@@ -4,7 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --configuration production --base-href \"/ian-rosenber.github.io/github-pages/\"",
+    "build": "ng build --output-path docs --base-href \"/ian-rosenberg.github.io/github-pages/\"",
     "deploy": "npm run build && npx angular-cli-ghpages --dir dist/github-pages",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
